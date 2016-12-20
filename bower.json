@@ -1,0 +1,20 @@
+{
+  "name": "hunting_seasons",
+  "description": "simple mean stack app to get env running in linux",
+  "main": "index.js",
+  "authors": [
+    "Vincent"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/VincentPauley/linux_project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hunting_seasons",
+  "version": "1.0.0",
+  "description": "simple mean stack app to get env running in linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentPauley/linux_project.git"
+  },
+  "author": "Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentPauley/linux_project/issues"
+  },
+  "homepage": "https://github.com/VincentPauley/linux_project#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
